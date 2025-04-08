@@ -1,0 +1,3 @@
+"A IA do Azure revoluciona a análise de sentimentos em textos.  
+O reconhecimento de entidades identifica pessoas, lugares e datas.  
+Frases-chave resumem automaticamente o conteúdo principal."  
